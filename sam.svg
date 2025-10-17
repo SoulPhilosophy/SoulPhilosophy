@@ -1,7 +1,7 @@
 <svg width="1400" height="380" viewBox="0 0 1400 380"
      xmlns="http://www.w3.org/2000/svg"
      role="img"
-     aria-label="Soul Philosopher — Samuel Greedharry"
+     aria-label="SoulPhilosophey — Samuel Greedharry"
      text-rendering="optimizeLegibility">
 
   <!-- =================== DEFs from both SVGs =================== -->
@@ -208,3 +208,4 @@
   <!-- FOOTER QUOTE -->
   <g transform="translate(70,320)"><text x="0" y="0" font-family="Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="16" fill="#C7D2FE" opacity="0.9">“Keep the main thing the main thing.” • Build what compounds.</text></g>
 </svg>
+
