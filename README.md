@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="sam.svg" alt="Animated Banner">
+  <img src="img.svg" alt="Animated Banner">
 </p>
